@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paris-school/webpack_bundle.git"
+    "url": "git+https://github.com/veraivaniuk/webpack-13classwork.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paris-school/webpack_bundle/issues"
+    "url": "https://github.com/veraivaniuk/webpack-13classwork/issues"
   },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://veraivaniuk.github.io/webpack-13classwork",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
